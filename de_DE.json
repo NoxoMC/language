@@ -5,6 +5,39 @@
   "contributors": ["FabiDev8986"],
   
   "values": {
-    "core.language.change": "{PREFIX}&aDeine Sprache wurde zu {LANGUAGE} geändert!",
+    "core.language.change": "{PREFIX}§aDeine Sprache wurde zu {LANGUAGE} geändert!",
+    
+    
+    "core.ui.friend.accept": "§aAktzeptieren",
+    "core.ui.friend.decline": "§cAblehnen",
+    
+    
+    "core.ui.friend.sendFriendRequest.title": "§7Freun hinzufügen",
+    "core.ui.friend.sendFriendRequest.input": "Gebe hier den Namen an",
+    
+    
+    "core.ui.friend.main.title": "§7Freunde",
+    "core.ui.friend.main.addfriend": "§eFreund hinzufügen",
+    "core.ui.friend.main.friendreq": "§5Freundschaftsanfragen\n§7(§6{REQ}§7)",
+    
+    
+    "core.ui.friend.req.title": "§7Freundschaftsanfragen",
+    
+    
+    "core.language.change": "Du hast die Sprache auf {LANGUAGE} geändert!",
+    
+    
+    "core.update.soon": "Kommt im nächsten Update!",
+    
+    
+    "core.ui.profile.title": "§7Profil!",
+    "core.ui.profile.friend": "§eFreunde!",
+    "core.ui.profile.stats": "§aStats!",
+    "core.ui.profile.language": "§bSprache!",
+    "core.ui.profile.settings": "§9Einstellungen!",
+    
+    
+    "core.ui.friend.stats.content": "\n§eKills: §r{kills}\n\n§eDeaths: §r{deaths}\n\n§eJumps: §r{jumps} \n",
+    "core.ui.friend.stats.close": "Schließen"
   }
 }
