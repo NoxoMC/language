@@ -1,0 +1,10 @@
+{
+  "name": "Deutsch",
+  "localeCode": "de_DE",
+  "prefix": "SuperCoolerServer >>",
+  "contributors": ["FabiDev8986"],
+  
+  "values": {
+    "core.language.change": "{PREFIX}&aDeine Sprache wurde geändert!",
+  }
+}
