@@ -5,6 +5,36 @@
   "contributors": ["FabiDev8986"],
   
   "values": {
-    "core.language.change": "{PREFIX}&aYou have changed the language to {LANGUAGE}!",
+        "core.language.change": "{PREFIX}§aYour language changed to {LANGUAGE}!",
+    
+    
+    "core.ui.friend.accept": "§aAccept",
+    "core.ui.friend.decline": "§cDecline",
+    
+    
+    "core.ui.friend.sendFriendRequest.title": "§7Add Friend",
+    "core.ui.friend.sendFriendRequest.input": "Put here the Playername",
+    
+    
+    "core.ui.friend.main.title": "§7Friends",
+    "core.ui.friend.main.addfriend": "§eAdd Friend",
+    "core.ui.friend.main.friendreq": "§5Friendrequests\n§7(§6{REQ}§7)",
+    
+    
+    "core.ui.friend.req.title": "§7Friendrequests",
+    
+    
+    "core.update.soon": "Coming in the next Update!",
+    
+    
+    "core.ui.profile.title": "§7Profil!",
+    "core.ui.profile.friend": "§eFriends!",
+    "core.ui.profile.stats": "§aStats!",
+    "core.ui.profile.language": "§bLanguage!",
+    "core.ui.profile.settings": "§9Settings!",
+    
+    
+    "core.ui.friend.stats.content": "\n§eKills: §r{kills}\n\n§eDeaths: §r{deaths}\n\n§eJumps: §r{jumps} \n",
+    "core.ui.friend.stats.close": "Close"
   }
 }
