@@ -12,7 +12,7 @@
     "core.ui.friend.decline": "§cAblehnen",
     
     
-    "core.ui.friend.sendFriendRequest.title": "§7Freun hinzufügen",
+    "core.ui.friend.sendFriendRequest.title": "§7Freund hinzufügen",
     "core.ui.friend.sendFriendRequest.input": "Gebe hier den Namen an",
     
     
@@ -37,7 +37,7 @@
     "core.ui.profile.settings": "§9Einstellungen!",
     
     
-    "core.ui.friend.stats.content": "\n§eKills: §r{kills}\n\n§eDeaths: §r{deaths}\n\n§eJumps: §r{jumps} \n",
+    "core.ui.friend.stats.content": "\n§eEliminationen: §r{kills}\n\n§eTode: §r{deaths}\n\n§eSprünge: §r{jumps} \n",
     "core.ui.friend.stats.close": "Schließen"
   }
 }
