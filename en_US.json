@@ -5,7 +5,7 @@
   "contributors": ["FabiDev8986"],
   
   "values": {
-        "core.language.change": "{PREFIX}§aYour language changed to {LANGUAGE}!",
+    "core.language.change": "{PREFIX}§aYour language changed to {LANGUAGE}!",
     
     
     "core.ui.friend.accept": "§aAccept",
