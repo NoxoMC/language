@@ -35,6 +35,8 @@
     
     
     "core.ui.friend.stats.content": "\n§eKills: §r{kills}\n\n§eDeaths: §r{deaths}\n\n§eJumps: §r{jumps} \n",
-    "core.ui.friend.stats.close": "Close"
+    "core.ui.friend.stats.close": "Close",
+    
+    "lobbycore.ui.socialmedia.close": "Close"
   }
 }
