@@ -38,6 +38,8 @@
     
     
     "core.ui.friend.stats.content": "\n§eEliminationen: §r{kills}\n\n§eTode: §r{deaths}\n\n§eSprünge: §r{jumps} \n",
-    "core.ui.friend.stats.close": "Schließen"
+    "core.ui.friend.stats.close": "Schließen",
+    
+    "lobbycore.ui.socialmedia.close": "Schließen"
   }
 }
