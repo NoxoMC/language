@@ -1,7 +1,7 @@
 {
   "name": "Deutsch",
   "localeCode": "de_DE",
-  "prefix": "SuperCoolerServer >>",
+  "prefix": "§7[§9Lobby§aCore§7]§f ",
   "contributors": ["FabiDev8986"],
   
   "values": {
@@ -22,10 +22,7 @@
     
     
     "core.ui.friend.req.title": "§7Freundschaftsanfragen",
-    
-    
-    "core.language.change": "Du hast die Sprache auf {LANGUAGE} geändert!",
-    
+
     
     "core.update.soon": "Kommt im nächsten Update!",
     
