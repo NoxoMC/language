@@ -1,23 +1,23 @@
 {
   "name": "Deutsch",
   "localeCode": "de_DE",
-  "prefix": "§7[§9Lobby§aCore§7]§f ",
+  "prefix": "§7[§9Lobby§aCore§7]§r ",
   "contributors": ["FabiDev8986"],
   
   "values": {
-    "core.language.change": "{PREFIX}§aDeine Sprache wurde zu {LANGUAGE} geändert!",
+    "core.language.change": "{PREFIX}Deine Sprache wurde zu §e{LANGUAGE}§r geändert!",
     
     
     "core.ui.friend.accept": "§aAktzeptieren",
     "core.ui.friend.decline": "§cAblehnen",
     "core.ui.friend.acceptReq.title": "§7Freundschatsanfrage von\n§e{REQUESTED}",
-    "core.added.friend": "{PREFIX}§aDu hast die Freundschaftsanfrage von {ADDED} angenommen!",
-    "core.decline.friend": "{PREFIX}§cDu hast die Freundschaftsanfrage von {DECLINE} abgelehnt!",
+    "core.added.friend": "{PREFIX}§rDu hast die Freundschaftsanfrage von §e{ADDED}§r angenommen!",
+    "core.decline.friend": "{PREFIX}§rDu hast die Freundschaftsanfrage von {DECLINE}§r abgelehnt!",
     
 
     "core.ui.friend.sendFriendRequest.title": "§7Freund hinzufügen",
     "core.ui.friend.sendFriendRequest.input": "Gebe hier den Namen an",
-    "core.friend.sentreq": "{PREFIX}§aDeine Freundschaftsanfrage wurde an §e{TO}§r gesendet!",
+    "core.friend.sentreq": "{PREFIX}§aDeine Freundschaftsanfrage wurde an §e{TO}§a gesendet!",
     "core.friend.cant.add.yourself": "{PREFIX}§cDu kannst dich nicht selbst hinzufügen!",
     "core.friend.already.send": "{PREFIX}§cDu hast diesem Spieler schon eine Freundschaftsanfrage gesendendet!",
     "core.friend.alreadyfriends": "{PREFIX}§cDieser Spieler ist bereits dein Freund!",
@@ -33,7 +33,7 @@
     
     "core.ui.friend.overview.title": "§7Übersicht\n§7(§6{FRIEND}§7)",
     "core.ui.friend.overview.removeFriend": "§cEntferne {FRIEND}",
-    "core.removed.friend": "{PREFIX}§aDu hast §e{REMOVED}§r von deiner Freundesliste entfernt",
+    "core.removed.friend": "{PREFIX}§fDu hast §e{REMOVED}§r von deiner Freundesliste entfernt",
     
     "core.ui.friend.req.title": "§7Freundschaftsanfragen",
     "core.ui.friend.denied.allReq": "{PREFIX}§aDu hast alle Anfragen abgelehnt",
