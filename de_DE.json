@@ -22,9 +22,9 @@
     
     
     "core.ui.friend.main.title": "§7Freunde",
-    "core.ui.friend.main.addfriend": "§aFreunde\n§7(§6{FRIENDS}§7)",
-    "core.ui.friend.main.addfriend": "§eFreund hinzufügen",
+    "core.ui.friend.main.listFriends": "§aFreunde\n§7(§6{FRIENDS}§7)",
     "core.ui.friend.main.friendreq": "§5Freundschaftsanfragen\n§7(§6{REQ}§7)",
+    "core.ui.friend.main.addfriend": "§eFreund hinzufügen",
     
     "core.ui.friend.listFriends.title": "§7Freundeslist",
     
