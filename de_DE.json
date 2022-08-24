@@ -11,15 +11,25 @@
     "core.ui.friend.accept": "§aAktzeptieren",
     "core.ui.friend.decline": "§cAblehnen",
     
-    
+
     "core.ui.friend.sendFriendRequest.title": "§7Freund hinzufügen",
     "core.ui.friend.sendFriendRequest.input": "Gebe hier den Namen an",
+    "core.friend.sentreq": "{PREFIX}§aDeine Freundschaftsanfrage wurde an §e{TO}§r gesendet!",
+    "core.friend.cant.add.yourself": "{PREFIX}§cDu kannst dich nicht selbst hinzufügen!",
+    "core.friend.already.send": "{PREFIX}§cDu hast diesem Spieler schon eine Freundschaftsanfrage gesendendet!",
+    "core.friend.alreadyfriends": "{PREFIX}§cDieser Spieler ist bereits dein Freund!",
+    "core.friend.player.notexist": "{PREFIX}§cDieser Spieler existiert nicht!",
     
     
     "core.ui.friend.main.title": "§7Freunde",
+    "core.ui.friend.main.addfriend": "§aFreunde\n§7(§6{FRIENDS}§7)",
     "core.ui.friend.main.addfriend": "§eFreund hinzufügen",
     "core.ui.friend.main.friendreq": "§5Freundschaftsanfragen\n§7(§6{REQ}§7)",
     
+    "core.ui.friend.listFriends.title": "§7Freundeslist",
+    
+    "core.ui.friend.overview.title": "§7Übersicht\n§7(§6{FRIEND}§7)",
+    "core.ui.friend.overview.removeFriend": "§cEntferne {FRIEND}",
     
     "core.ui.friend.req.title": "§7Freundschaftsanfragen",
 
