@@ -37,8 +37,8 @@
     
     "core.ui.friend.req.title": "§7Freundschaftsanfragen",
     "core.ui.friend.denied.allReq": "{PREFIX}§aDu hast alle Anfragen abgelehnt",
-    "core.ui.friend.req.button.accept": "{PREFIX}§aAlle aktzeptieren",
-    "core.ui.friend.req.button.decline": "{PREFIX}§cAlle ablehenen",
+    "core.ui.friend.req.button.accept": "§aAlle aktzeptieren",
+    "core.ui.friend.req.button.decline": "§cAlle ablehenen",
     "core.ui.friend.cannot.max": "{PREFIX}§cDu kannst den Spieler nicht hinzufügen da du dein Limit überschreitest!",
     "core.ui.friend.accepted.allReq": "{PREFIX}§aDu hast alle Anfragen angenommen!",
 
