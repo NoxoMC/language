@@ -1,0 +1,87 @@
+{
+  "name": "Deutsch",
+  "localeCode": "de_DE",
+  "prefix": "§7[§9Lobby§aCore§7]§f ",
+  "contributors": ["FabiDev8986"],
+  
+  "values": {
+    "core.language.change": "{PREFIX}Deine Sprache wurde zu §e{LANGUAGE}§r geändert!",
+    
+    "core.player.noperms": "{PREFIX}Sorry du hast keine Rechte!",
+    "core.messages.canotbeempty.player": "{PREFIX}Der Spieler darf nicht leer sein!",
+    "core.messages.canotbeempty.rang": "{PREFIX}Der Rang darf nicht leer sein!",
+    "core.rang.player.notexist": "{PREFIX}Dieser Spieler existiert nicht!",
+    "core.rang.player.notonline": "{PREFIX}Der angegebene Spieler ist kein Spieler oder nicht Online!",
+    "core.rang.player.gaverank": "{PREFIX}Du hast den §a{RANK}§r an §e{TO}§r gegeben! ",
+    "core.rang.player.yougotrank": "{PREFIX}Du hast den §a{RANK}§r von §e{FROM}§r bekommen!",
+    
+    "core.player.buildmode.on": "{PREFIX}Du hast den Baumodus angeschaltet!",
+    "core.player.buildmode.off": "{PREFIX}Du hast den Baumods abgeschaltet!",
+    
+    
+    "core.ui.settings.main.title": "§7Einstellungen",
+    
+    
+    "core.achiev.opensocial.title": "§e§lErfolg freigeschaltet!",
+    "core.achiev.opensocial.body": "Du hast zum ersten mal Social Media Seiten geöffnet!",
+    "core.achiev.onekjumps.title": "§e§lErfolg freigeschaltet!",
+    "core.achiev.onekjumps.body": "Du bist 1000 mal gesprungen!",
+    "core.achiev.tenkills.title": "§e§lErfolg freigeschaltet!",
+    "core.achiev.tenkills.body": "Du hast 10x jemanden getötet!",
+    
+    
+    "core.ui.friend.accept": "§aAktzeptieren",
+    "core.ui.friend.decline": "§cAblehnen",
+    "core.ui.friend.acceptReq.title": "§7Freundschatsanfrage von\n§e{REQUESTED}",
+    "core.added.friend": "{PREFIX}§rDu hast die Freundschaftsanfrage von §e{ADDED}§r angenommen!",
+    "core.decline.friend": "{PREFIX}§rDu hast die Freundschaftsanfrage von {DECLINE}§r abgelehnt!",
+    
+
+    "core.ui.friend.sendFriendRequest.title": "§7Freund hinzufügen",
+    "core.ui.friend.sendFriendRequest.input": "Gebe hier den Namen an",
+    "core.friend.sentreq": "{PREFIX}§aDeine Freundschaftsanfrage wurde an §e{TO}§a gesendet!",
+    "core.friend.cant.add.yourself": "{PREFIX}§cDu kannst dich nicht selbst hinzufügen!",
+    "core.friend.already.send": "{PREFIX}§cDu hast diesem Spieler schon eine Freundschaftsanfrage gesendendet!",
+    "core.friend.alreadyfriends": "{PREFIX}§cDieser Spieler ist bereits dein Freund!",
+    "core.friend.player.notexist": "{PREFIX}§cDieser Spieler existiert nicht!",
+    
+    
+    "core.ui.friend.main.title": "§7Freunde",
+    "core.ui.friend.main.listFriends": "§aFreundesliste",
+    "core.ui.friend.main.friendreq": "§5Freundschaftsanfragen",
+    "core.ui.friend.main.addfriend": "§eFreund hinzufügen",
+    
+    "core.ui.friend.listFriends.title": "§7Freundeslist",
+    
+    "core.ui.friend.overview.title": "§7Übersicht\n§7(§6{FRIEND}§7)",
+    "core.ui.friend.overview.removeFriend": "§cEntferne {FRIEND}",
+    "core.removed.friend": "{PREFIX}§fDu hast §e{REMOVED}§r von deiner Freundesliste entfernt",
+    
+    "core.ui.friend.req.title": "§7Freundschaftsanfragen",
+    "core.ui.friend.denied.allReq": "{PREFIX}§aDu hast alle Anfragen abgelehnt",
+    "core.ui.friend.req.button.accept": "§aAlle aktzeptieren",
+    "core.ui.friend.req.button.decline": "§cAlle ablehenen",
+    "core.ui.friend.cannot.max": "{PREFIX}§cDu kannst kannst keine Freunde mehr hinzufügen da du dein Limit sonst überschreitest!",
+    "core.ui.friend.accepted.allReq": "{PREFIX}§aDu hast alle Anfragen angenommen!",
+
+    
+    "core.update.soon": "Kommt im nächsten Update!",
+    
+    
+    "core.ui.profile.title": "§7Profil!",
+    "core.ui.profile.friend": "§eFreunde!",
+    "core.ui.profile.stats": "§aStats!",
+    "core.ui.profile.language": "§bSprache!",
+    "core.ui.profile.settings": "§9Einstellungen!",
+    
+    
+    "core.ui.friend.stats.content": "\n§eEliminationen: §r{kills}\n\n§eTode: §r{deaths}\n\n§eSprünge: §r{jumps} \n",
+    "core.ui.friend.stats.close": "Schließen",
+    
+    "lobbycore.ui.socialmedia.close": "Schließen",
+    "lobbycore.ui.socialmedia.youtube": "{PREFIX}Hier findest du meinen YouTube Kanal §ehttps://www.youtube.com/c/vipexde§r!",
+    "lobbycore.ui.socialmedia.twitch": "{PREFIX}Hier findest du meinen Twitter Kanal §ehttps://www.twitch.tv/vipexde§r!",
+    "lobbycore.ui.socialmedia.twitter": "{PREFIX}Hier findest du meinen YouTube Kanal §ehttps://www.twitter.com/VipexDe§r!",
+    "lobbycore.ui.socialmedia.discord": "{PREFIX}Hier findest du unseren Discord §ehttps://dsc.gg/noxomc§r!"
+  }
+}
