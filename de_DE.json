@@ -84,5 +84,11 @@
     "lobbycore.ui.socialmedia.twitter": "{PREFIX}Hier findest du meinen YouTube Kanal §ehttps://www.twitter.com/VipexDe§r!",
     "lobbycore.ui.socialmedia.discord": "{PREFIX}Hier findest du unseren Discord §ehttps://dsc.gg/noxomc§r!",
     
+    "core.ui.rang.wantrestart.title": "§c§lWICHTIGE NACHRICHT",
+    "core.ui.rang.wantrestart.content": "Du hast einen neuen Rang erhalten! Um ihn entgültig zu bekommen kannst du jetzt den Server einmal verlassen und wieder drauf joinen! Du kannst aber auch später restarten, beachte du hast bis jetzt noch den alten Rang!",
+    "core.ui.rang.wantrestart.now": "§aJetzt",
+    "core.ui.rang.wantrestart.later": "§cSpäter",
+    "core.rang.wantrestart.later": "{PREFIX}Vergesse nicht dein Spiel zu restarten!",
+    
   }
 }
