@@ -5,8 +5,6 @@
   "contributors": ["FabiDev8986"],
   
   "values": {
-    "core.language.change": "{PREFIX}Deine Sprache wurde zu §e{LANGUAGE}§r geändert!",
-    
-    
+    "core.language.change": "{PREFIX}Deine Sprache wurde zu §e{LANGUAGE}§r geändert!"
   }
 }
