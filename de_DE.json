@@ -12,8 +12,8 @@
     "core.messages.canotbeempty.rang": "{PREFIX}Der Rang darf nicht leer sein!",
     "core.rang.player.notexist": "{PREFIX}Dieser Spieler existiert nicht!",
     "core.rang.player.notonline": "{PREFIX}Der angegebene Spieler ist kein Spieler oder nicht Online!",
-    "core.rang.player.gaverank": "{PREFIX}Du hast den §a{RANK}§r an §e{TO}§r gegeben! ",
-    "core.rang.player.yougotrank": "{PREFIX}Du hast den §a{RANK}§r von §e{FROM}§r bekommen!",
+    "core.rang.player.gaverank": "{PREFIX}Du hast den §a{RANK}§r Rang an §e{TO}§r gegeben! ",
+    "core.rang.player.yougotrank": "{PREFIX}Du hast den §a{RANK}§r Rang von §e{FROM}§r bekommen!",
     
     "core.player.buildmode.on": "{PREFIX}Du hast den Baumodus angeschaltet!",
     "core.player.buildmode.off": "{PREFIX}Du hast den Baumods abgeschaltet!",
