@@ -16,6 +16,9 @@
     "core.rang.player.gaverank": "{PREFIX}Du hast den §a{RANK}§r an §e{TO}§r gegeben! ",
     "core.rang.player.yougotrank": "{PREFIX}Du hast den §a{RANK}§r von §e{FROM}§r bekommen!",
     
+    "core.player.buildmode.on": "{PREFIX}Du hast den Baumodus angeschaltet!",
+    "core.player.buildmode.off": "{PREFIX}Du hast den Baumods abgeschaltet!",
+    
     
     "core.ui.settings.main.title": "§7Einstellungen",
     
