@@ -14,6 +14,7 @@
         "core.rang.player.gaverank": "{PREFIX}Du hast den §a{RANK}§r Rang an §e{TO}§r gegeben! ",
         "core.rang.player.yougotrank": "{PREFIX}Du hast den §a{RANK}§r Rang von §e{FROM}§r bekommen!",
         "core.rang.player.selfrank": "{PREFIX}Du hast dir den §a{RANK}§r Rang gegeben!",
+        "core.rang.notexist": "{PREFIX}Der Rang §e{RANK}§r existiert nicht!",
 
         "core.player.buildmode.on": "{PREFIX}Du hast den Baumodus angeschaltet!",
         "core.player.buildmode.off": "{PREFIX}Du hast den Baumods abgeschaltet!",
