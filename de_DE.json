@@ -16,6 +16,13 @@
 
         "core.player.buildmode.on": "{PREFIX}Du hast den Baumodus angeschaltet!",
         "core.player.buildmode.off": "{PREFIX}Du hast den Baumods abgeschaltet!",
+        
+        "core.alterts.cps": "{PREFIX}",
+        
+        "core.cps.enabled": "{PREFIX}Du hast die CPS Anzeige aktiviert!",
+        "core.cps.disabled": "{PREFIX}Du hast die CPS Anzeige deaktiviert!",
+        "core.cps.allreadyenabled": "{PREFIX}Du hast die CPS Anzeige bereits aktiviert!",
+        "core.cps.usage": "{PREFIX}/cps [ON/OFF]",
 
 
         "core.ui.settings.main.title": "§7Einstellungen",
