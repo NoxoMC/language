@@ -28,6 +28,8 @@
 
 
         "core.ui.settings.main.title": "§7Einstellungen",
+        
+        "core.playtime.time-format": "{y} years, {m} months, {d} days, {h} hours, {i} minutes, {s} seconds",
 
 
         "core.achiev.opensocial.title": "§e§lErfolg freigeschaltet!",
