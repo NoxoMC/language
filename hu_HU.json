@@ -5,11 +5,11 @@
   "contributors": ["FabiDev8986"],
   
   "values": {
-    "core.language.change": "{PREFIX}§aYour language changed to {LANGUAGE}!",
+    "core.language.change": "{PREFIX}§aA nyelve {LANGUAGE}-ra módosult!",
     
     
-    "core.ui.friend.accept": "§aAccept",
-    "core.ui.friend.decline": "§cDecline",
+    "core.ui.friend.accept": "§aElfogad",
+    "core.ui.friend.decline": "§cElutasít",
     
     
     "core.ui.friend.sendFriendRequest.title": "§7Add Friend",
