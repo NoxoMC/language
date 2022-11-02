@@ -77,6 +77,7 @@
 
 
         "core.update.soon": "Kommt im nächsten Update!",
+        "lobbycore.ui.close": "§cSchließen",
 
 
         "core.ui.profile.title": "§7Profil!",
@@ -101,7 +102,15 @@
         "core.ui.rang.wantrestart.now": "§aJetzt",
         "core.ui.rang.wantrestart.later": "§cSpäter",
         "core.rang.wantrestart.later": "{PREFIX}Vergesse nicht dein Spiel zu restarten!",
-        "core.rang.wantrestart.kicMSG": "§bRANGAPI§r: §eReload Rang"
+        "core.rang.wantrestart.kicMSG": "§bRANGAPI§r: §eReload Rang",
+        
+        "lobbycore.ui.cosmetics.main.title": "§9Kosmetik",
+        "lobbycore.ui.cosmetics.main.pets": "§bHaustiere",
+        "lobbycore.ui.cosmetics.main.particles": "§dPartikel",
+        "lobbycore.ui.cosmetics.main.walkingblocks": "§cLauf Blöcke",
+        "lobbycore.ui.cosmetics.main.itemdrops": "§aItem drops",
+        
+        
 
     }
 }
