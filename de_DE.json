@@ -7,6 +7,7 @@
     "values": {
         "core.language.change": "{PREFIX}Deine Sprache wurde zu §e{LANGUAGE}§r geändert!",
         "core.nofriends": "{PREFIX}Du hast keine Freunde!",
+        "core.nofriendsreq": "{PREFIX}Du hast keine Freundschaftsanfragen!",
         "core.player.noperms": "{PREFIX}Sorry du hast keine Rechte!",
         "core.messages.canotbeempty.player": "{PREFIX}Der Spieler darf nicht leer sein!",
         "core.messages.canotbeempty.rang": "{PREFIX}Der Rang darf nicht leer sein!",
