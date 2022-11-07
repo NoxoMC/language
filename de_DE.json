@@ -80,11 +80,11 @@
         "lobbycore.ui.close": "§cSchließen",
 
 
-        "core.ui.profile.title": "§7Profil!",
-        "core.ui.profile.friend": "§eFreunde!",
-        "core.ui.profile.stats": "§aStats!",
-        "core.ui.profile.language": "§bSprache!",
-        "core.ui.profile.settings": "§9Einstellungen!",
+        "core.ui.profile.title": "§7Profil!\n§7Drücke zum Interagieren!",
+        "core.ui.profile.friend": "§eFreunde!\n§7Drücke zum Interagieren!",
+        "core.ui.profile.stats": "§aStats!\n§7Drücke zum Interagieren!",
+        "core.ui.profile.language": "§bSprache!\n§7Drücke zum Interagieren!",
+        "core.ui.profile.settings": "§9Einstellungen!\n§7Drücke zum Interagieren!",
 
 
         "core.ui.friend.stats.content": "\n§eEliminationen: §r{kills}\n\n§eTode: §r{deaths}\n\n§eSprünge: §r{jumps} \n",
