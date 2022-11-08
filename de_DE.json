@@ -114,7 +114,10 @@
         "lobbycore.ui.cosmetics.main.pets": "§bHaustiere",
         "lobbycore.ui.cosmetics.main.particles": "§dPartikel",
         "lobbycore.ui.cosmetics.main.walkingblocks": "§cLauf Blöcke",
-        "lobbycore.ui.cosmetics.main.itemdrops": "§aItem drops"
+        "lobbycore.ui.cosmetics.main.itemdrops": "§aItem drops",
+
+        "core.friend.joined": "§7[§a+§7]§r §e{FRIEND}§r ist dem Netzwerk beigetreten!",
+        "core.friend.leave": "§7{§c-§7]§r §e{FRIEND} hat das Netzwerk beigetreten!"
         
         
 
