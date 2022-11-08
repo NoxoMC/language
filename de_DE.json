@@ -56,7 +56,7 @@
         "core.ui.friend.sendFriendRequest.input": "Gebe hier den Namen an",
         "core.friend.sentreq": "{PREFIX}§aDeine Freundschaftsanfrage wurde an §e{TO}§a gesendet!",
         "core.friend.cant.add.yourself": "{PREFIX}§cDu kannst dich nicht selbst hinzufügen!",
-        "core.friend.already.send": "{PREFIX}§cDu hast diesem Spieler schon eine Freundschaftsanfrage gesendendet!",
+        "core.friend.already.send": "{PREFIX}§cDu hast diesem Spieler schon eine Freundschaftsanfrage gesendet!",
         "core.friend.alreadyfriends": "{PREFIX}§cDieser Spieler ist bereits dein Freund!",
         "core.friend.player.notexist": "{PREFIX}§cDieser Spieler existiert nicht!",
 
