@@ -46,7 +46,7 @@
         "core.ui.friend.accept": "§aAktzeptieren",
         "core.ui.friend.decline": "§cAblehnen",
         "core.ui.friend.acceptReq.title": "§7Freundschatsanfrage",
-        "core.ui.friend.accepted": "{PREFIX}§r§e{FRIEND}§r hat deine Freundschaftsanfrage angenommen!!",
+        "core.ui.friend.accepted": "{PREFIX}§r§e{FRIEND}§r hat deine Freundschaftsanfrage angenommen!",
         "core.ui.friend.acceptReq.body": "§e{REQUESTED}§r hat dir eine Freundschaftsanfrage gesendet!",
         "core.added.friend": "{PREFIX}§rDu hast die Freundschaftsanfrage von §e{ADDED}§r angenommen!",
         "core.decline.friend": "{PREFIX}§rDu hast die Freundschaftsanfrage von {DECLINE}§r abgelehnt!",
@@ -117,7 +117,7 @@
         "lobbycore.ui.cosmetics.main.itemdrops": "§aItem drops",
 
         "core.friend.joined": "§7[§a+§7]§r §e{FRIEND}§r ist dem Netzwerk beigetreten!",
-        "core.friend.leave": "§7{§c-§7]§r §e{FRIEND} hat das Netzwerk beigetreten!"
+        "core.friend.leave": "§7[§c-§7]§r §e{FRIEND}§r hat das Netzwerk verlassen!"
         
         
 
