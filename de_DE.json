@@ -46,8 +46,8 @@
         "core.ui.friend.accept": "§aAktzeptieren",
         "core.ui.friend.decline": "§cAblehnen",
         "core.ui.friend.acceptReq.title": "§7Freundschatsanfrage",
-        "core.ui.friend.accepted": "{FRIEND} hat deine Freundschaftsanfrage angenommen!",
-        "core.ui.friend.acceptReq.body": "{REQUESTED} hat die eine Freundschaftsanfrage gesendet!",
+        "core.ui.friend.accepted": "{PREFIX}§r§e{FRIEND}§r hat deine Freundschaftsanfrage angenommen!!",
+        "core.ui.friend.acceptReq.body": "§e{REQUESTED}§r hat dir eine Freundschaftsanfrage gesendet!",
         "core.added.friend": "{PREFIX}§rDu hast die Freundschaftsanfrage von §e{ADDED}§r angenommen!",
         "core.decline.friend": "{PREFIX}§rDu hast die Freundschaftsanfrage von {DECLINE}§r abgelehnt!",
 
@@ -71,6 +71,7 @@
         "core.ui.friend.overview.title": "§7Übersicht\n§7(§6{FRIEND}§7)",
         "core.ui.friend.overview.removeFriend": "§cEntferne {FRIEND}",
         "core.removed.friend": "{PREFIX}§fDu hast §e{REMOVED}§r von deiner Freundesliste entfernt",
+        "core.removed.youasfriend": "{PREFIX}§e{REMOVED}§r hat dich von seiner Freundesliste entfernt",
 
         "core.ui.friend.req.title": "§7Freundschaftsanfragen",
         "core.ui.friend.denied.allReq": "{PREFIX}§aDu hast alle Anfragen abgelehnt",
