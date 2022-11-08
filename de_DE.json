@@ -87,10 +87,10 @@
 
 
         "core.ui.profile.title": "§7Dein Profil!",
-        "core.ui.profile.friend": "§eDeine Freunde!\n§7Drücke zum Interagieren!",
-        "core.ui.profile.stats": "§aDeine Statistiken!\n§7Drücke zum Interagieren!",
-        "core.ui.profile.clan": "§bClan Verwalten!\n§7Drücke zum Interagieren!",
-        "core.ui.profile.settings": "§9Deine Einstellungen!\n§7Drücke zum Interagieren!",
+        "core.ui.profile.friend": "§eDeine Freunde!\n§7Drücke!",
+        "core.ui.profile.stats": "§aDeine Statistiken!\n§7Drücke!",
+        "core.ui.profile.clan": "§bClan Verwalten!\n§7Drücke!",
+        "core.ui.profile.settings": "§9Deine Einstellungen!\n§7Drücke!",
 
 
         "core.ui.friend.stats.content": "\n§eEliminationen: §r{kills}\n\n§eTode: §r{deaths}\n\n§eSprünge: §r{jumps} \n",
