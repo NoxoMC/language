@@ -47,15 +47,16 @@
         "core.ui.friend.decline": "§cAblehnen",
         "core.ui.friend.acceptReq.title": "§7Freundschatsanfrage",
         "core.ui.friend.accepted": "{PREFIX}§r§e{FRIEND}§r hat deine Freundschaftsanfrage angenommen!",
+        "core.ui.friend.decl": "{PREFIX}§r§e{FRIEND}§r hat deine Freundschaftsanfrage abgelehnt!",
         "core.ui.friend.acceptReq.body": "§e{REQUESTED}§r hat dir eine Freundschaftsanfrage gesendet!",
         "core.added.friend": "{PREFIX}§rDu hast die Freundschaftsanfrage von §e{ADDED}§r angenommen!",
-        "core.decline.friend": "{PREFIX}§rDu hast die Freundschaftsanfrage von {DECLINE}§r abgelehnt!",
+        "core.decline.friend": "{PREFIX}§rDu hast die Freundschaftsanfrage von §e{DECLINE}§r abgelehnt!",
 
 
         "core.ui.friend.sendFriendRequest.title": "§7Freund hinzufügen",
         "core.ui.friend.sendFriendRequest.input": "Gebe hier den Namen an",
-        "core.friend.sentreq": "{PREFIX}Deine Freundschaftsanfrage wurde an §e{TO}§a gesendet!",
-        "core.friend.gotreq": "{PREFIX}Du hast eine Freundschaftsanfrage von §e{FROM}§a bekommen!",
+        "core.friend.sentreq": "{PREFIX}Deine Freundschaftsanfrage wurde an §e{TO}§r gesendet!",
+        "core.friend.gotreq": "{PREFIX}Du hast eine Freundschaftsanfrage von §e{FROM}§r bekommen!",
         "core.friend.cant.add.yourself": "{PREFIX}§cDu kannst dich nicht selbst hinzufügen!",
         "core.friend.already.send": "{PREFIX}§cDu hast diesem Spieler schon eine Freundschaftsanfrage gesendet!",
         "core.friend.alreadyfriends": "{PREFIX}§cDieser Spieler ist bereits dein Freund!",
@@ -89,7 +90,7 @@
         "core.ui.profile.title": "§7Dein Profil!",
         "core.ui.profile.friend": "§eDeine Freunde\n§7Drücke!",
         "core.ui.profile.stats": "§aDeine Statistiken\n§7Drücke!",
-        "core.ui.profile.clan": "§bClan Verwalten\n§7Drücke!",
+        "core.ui.profile.clan": "§bClan verwalten\n§7Drücke!",
         "core.ui.profile.settings": "§9Deine Einstellungen\n§7Drücke!",
 
 
