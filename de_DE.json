@@ -46,6 +46,7 @@
         "core.ui.friend.accept": "§aAktzeptieren",
         "core.ui.friend.decline": "§cAblehnen",
         "core.ui.friend.acceptReq.title": "§7Freundschatsanfrage",
+        "core.ui.friend.accepted": "{FRIEND} hat deine Freundschaftsanfrage angenommen!",
         "core.ui.friend.acceptReq.body": "{REQUESTED} hat die eine Freundschaftsanfrage gesendet!",
         "core.added.friend": "{PREFIX}§rDu hast die Freundschaftsanfrage von §e{ADDED}§r angenommen!",
         "core.decline.friend": "{PREFIX}§rDu hast die Freundschaftsanfrage von {DECLINE}§r abgelehnt!",
