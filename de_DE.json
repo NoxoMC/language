@@ -30,6 +30,7 @@
 
 
         "core.ui.settings.main.title": "§7Einstellungen",
+        "core.ui.settings.main.lobbysettings": "§bLobby Einstellungen",
         
         "core.playtime.time-format": "{y} years, {m} months, {d} days, {h} hours, {i} minutes, {s} seconds",
         "core.playtime.hud.d": "{d}D {h}H {i}Min",
