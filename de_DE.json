@@ -123,8 +123,8 @@
         "lobbycore.ui.cosmetics.main.walkingblocks": "§cLauf Blöcke",
         "lobbycore.ui.cosmetics.main.itemdrops": "§aItem drops",
 
-        "core.friend.joined": "§7[§a+§7]§rDein Freund §e{FRIEND}§r ist dem Netzwerk beigetreten!",
-        "core.friend.leave": "§7[§c-§7]§rDein Freund §e{FRIEND}§r hat das Netzwerk verlassen!"
+        "core.friend.joined": "§7[§a+§7]§r Dein Freund §e{FRIEND}§r ist dem Netzwerk beigetreten!",
+        "core.friend.leave": "§7[§c-§7]§r Dein Freund §e{FRIEND}§r hat das Netzwerk verlassen!"
         
         
 
