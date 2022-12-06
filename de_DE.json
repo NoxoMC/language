@@ -35,6 +35,8 @@
         "core.ui.settings.ls.dj": "§bDoppel Sprung §7umschalten",
         "core.ui.settings.ls.sop": "§bZeige andere Spieler §7umschalten",
         
+        "core.ui.back": "§c§lZurück",
+        
         "core.playtime.time-format": "{y} years, {m} months, {d} days, {h} hours, {i} minutes, {s} seconds",
         "core.playtime.hud.d": "{d}D {h}H {i}Min",
 
