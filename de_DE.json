@@ -91,6 +91,7 @@
 
 
         "core.update.soon": "Kommt im nächsten Update!",
+        "core.mm.change": "{PREFIX} Du hast das Maintance System §7[§e{WERT}§7]§f!",
 
         "core.ui.profile.title": "§7Dein Profil!",
         "core.ui.profile.friend": "§eDeine Freunde\n§7Drücke!",
