@@ -36,6 +36,7 @@
         "core.ui.settings.ls.sop": "§bZeige andere Spieler §7umschalten",
         
         "core.ui.back": "§c§lZurück",
+        "core.isset": "{PREFIX}Es fehlt ein angegebener Wert §7[§e{WERT}§7]§f!",
         
         "core.playtime.time-format": "{y} years, {m} months, {d} days, {h} hours, {i} minutes, {s} seconds",
         "core.playtime.hud.d": "{d}D {h}H {i}Min",
@@ -90,38 +91,39 @@
 
 
         "core.update.soon": "Kommt im nächsten Update!",
-        "lobbycore.ui.close": "§cSchließen",
-
 
         "core.ui.profile.title": "§7Dein Profil!",
         "core.ui.profile.friend": "§eDeine Freunde\n§7Drücke!",
         "core.ui.profile.stats": "§aDeine Statistiken\n§7Drücke!",
         "core.ui.profile.clan": "§bClan verwalten\n§7Drücke!",
         "core.ui.profile.settings": "§9Deine Einstellungen\n§7Drücke!",
-
-
-        "core.ui.friend.stats.content": "\n§eEliminationen: §r{kills}\n\n§eTode: §r{deaths}\n\n§eSprünge: §r{jumps} \n",
-        "core.ui.friend.stats.close": "Schließen",
-
-        "lobbycore.ui.socialmedia.close": "Schließen",
-        "lobbycore.ui.socialmedia.youtube": "{PREFIX}Hier findest du meinen YouTube Kanal §ehttps://www.youtube.com/c/vipexde§r!",
-        "lobbycore.ui.socialmedia.twitch": "{PREFIX}Hier findest du meinen Twitter Kanal §ehttps://www.twitch.tv/vipexde§r!",
-        "lobbycore.ui.socialmedia.twitter": "{PREFIX}Hier findest du meinen YouTube Kanal §ehttps://www.twitter.com/VipexDe§r!",
-        "lobbycore.ui.socialmedia.discord": "{PREFIX}Hier findest du unseren Discord §ehttps://dsc.gg/noxomc§r!",
-
-
+        
         "core.ui.rang.wantrestart.title": "§c§lWICHTIGE NACHRICHT",
         "core.ui.rang.wantrestart.content": "Du hast einen neuen Rang erhalten! Um ihn entgültig zu bekommen kannst du jetzt den Server einmal verlassen und wieder drauf joinen! Du kannst aber auch später restarten. Beachte, du hast bis jetzt noch den alten Rang!",
         "core.ui.rang.wantrestart.now": "§aJetzt",
         "core.ui.rang.wantrestart.later": "§cSpäter",
         "core.rang.wantrestart.later": "{PREFIX}Vergesse nicht dein Spiel zu restarten!",
         "core.rang.wantrestart.kicMSG": "§bRANGAPI§r: §eReload Rang",
+
+
+        "core.ui.friend.stats.content": "\n§eEliminationen: §r{kills}\n\n§eTode: §r{deaths}\n\n§eSprünge: §r{jumps} \n",
+        "core.ui.friend.stats.close": "Schließen",
+        
+
+        "lobbycore.ui.socialmedia.close": "Schließen",
+        "lobbycore.ui.socialmedia.youtube": "{PREFIX}Hier findest du meinen YouTube Kanal §ehttps://www.youtube.com/c/vipexde§r!",
+        "lobbycore.ui.socialmedia.twitch": "{PREFIX}Hier findest du meinen Twitter Kanal §ehttps://www.twitch.tv/vipexde§r!",
+        "lobbycore.ui.socialmedia.twitter": "{PREFIX}Hier findest du meinen YouTube Kanal §ehttps://www.twitter.com/VipexDe§r!",
+        "lobbycore.ui.socialmedia.discord": "{PREFIX}Hier findest du unseren Discord §ehttps://dsc.gg/noxomc§r!",
         
         "lobbycore.ui.cosmetics.main.title": "§9Kosmetik",
         "lobbycore.ui.cosmetics.main.pets": "§bHaustiere",
         "lobbycore.ui.cosmetics.main.particles": "§dPartikel",
         "lobbycore.ui.cosmetics.main.walkingblocks": "§cLauf Blöcke",
         "lobbycore.ui.cosmetics.main.itemdrops": "§aItem drops",
+        
+        "lobbycore.ui.close": "§cSchließen",
+
 
         "core.friend.joined": "§7[§a+§7]§r Dein Freund §e{FRIEND}§r ist dem Netzwerk beigetreten!",
         "core.friend.leave": "§7[§c-§7]§r Dein Freund §e{FRIEND}§r hat das Netzwerk verlassen!"
